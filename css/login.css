@@ -1,0 +1,41 @@
+.loginWarp{
+	width: 241px;
+	height: 90px;
+	background-image:url("http://dimeet.iptime.org:8080/board/img/loginBox.png");
+}
+
+.email{
+	border: none;
+	margin-left: 50px;
+	margin-top: 5px;
+	height: 30px;
+	width: 180px;
+}
+.ps{
+	border: none;
+	margin-left: 50px;
+	margin-top: 15px;
+	height: 30px;
+	width: 180px;
+}
+.Warp{
+	width: 241px ;
+	height: 200px;
+	position: absolute;
+	left: 50%;
+  top: 50%;
+  margin: -120.5px 0 0 -100px;
+}
+
+.submit{
+	background : url("http://dimeet.iptime.org:8080/board/img/BtnNormal.png") no-repeat center center;
+	width : 113px;
+	height :45px;
+	border : none;
+	color : white;
+	font-size: 20px;
+	margin-left: 130px;
+}
+.submit:hover{
+	background : url("http://dimeet.iptime.org:8080/board/img/BtnHover.png") no-repeat center center;
+}

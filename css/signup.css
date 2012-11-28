@@ -1,0 +1,18 @@
+
+.Warp{
+	width: 241px ;
+	height: 200px;
+	position: absolute;
+	left: 50%;
+  	top: 50%;
+  	margin: -120.5px 0 0 -100px;
+  	text-align: center;
+}
+.Warp input[type=text]{
+	width: 200px;
+	height: 25px;
+}
+.Warp input[type=password]{
+	width: 200px;
+	height: 25px;
+}

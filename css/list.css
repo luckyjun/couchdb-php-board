@@ -1,0 +1,41 @@
+html, body, table{
+	font-size: 12px;
+	font-family: '돋움',dotum,Helvetica,sans-serif;
+}
+
+#header{
+	text-align: right;	
+	padding: 10px;
+}
+#content{
+	padding: 10px;
+	border: solid 1px #E5E5E5;
+}
+table.list tr.header{
+	background-color: #F9F9F9;
+}
+table.list td.number{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+table.list td.board-line{
+	background-color: #E5E5E5;
+	padding: 0px;
+}
+table.list td{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-bottom: solid 1px #E5E5E5;
+}
+table.list{
+	
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+#write{
+	text-align: right;
+}
+#page{
+	text-align: center;	
+}
