@@ -7,10 +7,11 @@
 	*/
 	
 	
-	/*
+	
 	ini_set('display_errors','On');
-	require_once (__DIR__."/controller.php");
+	require_once (__DIR__."/controller/board.php");
 	createDB();
 	makeView();
-	*/
+	makeBaseDocument();
+	
 ?>

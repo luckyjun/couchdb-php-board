@@ -1,0 +1,13 @@
+#header{
+	text-align: right;	
+	padding: 10px;
+}
+#content{
+	padding: 10px;
+	border: solid 1px #E5E5E5;
+}
+#content .title{
+	border-bottom: dotted 1px #E5E5E5;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}

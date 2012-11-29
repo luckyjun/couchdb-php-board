@@ -3,14 +3,6 @@ html, body, table{
 	font-family: '돋움',dotum,Helvetica,sans-serif;
 }
 
-#header{
-	text-align: right;	
-	padding: 10px;
-}
-#content{
-	padding: 10px;
-	border: solid 1px #E5E5E5;
-}
 table.list tr.header{
 	background-color: #F9F9F9;
 }
