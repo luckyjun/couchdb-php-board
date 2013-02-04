@@ -4,10 +4,10 @@
 	ini_set('display_errors','On');
 	
 	//카우치 디비에 들어갈 데이터 베이스 이름.
-	define("DB_NAME", "board");
-	define("DB_ID", "jun");
-	define("DB_PASS", "manson");
-	define("DB_ADDR", "192.168.0.84:5984");
+	define("DB_NAME", "");
+	define("DB_ID", "");
+	define("DB_PASS", "");
+	define("DB_ADDR", "127.0.0.1:5984");
 	
 	header('Access-Control-Allow-Origin: *');  
 	
